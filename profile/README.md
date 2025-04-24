@@ -6,11 +6,11 @@ Our areas of specialisation include:
 --- 
 :world_map: Geodata, geoservices and GIS
 
-:scientist: Computer vision and machine learning 
+👨‍⚕️ Computer vision and machine learning 
 
 :detective: Information security and computer forensics 
 
-:student: Support of educational activities 
+👨‍🎓 Support of educational activities 
 
 
 Find us around the web:
