@@ -1,3 +1,5 @@
+![436970868-496b0633-f813-4af2-ac05-4f9b6b9c7407](https://github.com/user-attachments/assets/c701f572-2a9b-4666-b4fc-3ffe9ca57bcf)
+
 Creation of knowledge-intensive products in the field of information technologies, their implementation in development, production and social spheres.
 
 Our areas of specialisation include:
